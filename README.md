@@ -78,9 +78,9 @@
 
 <p align="center">Please note that documentation translations may be outdated; try to use English documentation if possible.</p>
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/AmareshMuddebihal">donating</a> to help it improve!</p>
+<p align="center">Love the project? Please consider <a href="https://www.buymeacoffe/amareshmuddebihal">donating</a> to help it improve!</p>
 
-<a href="https://www.buymeacoffee.com/amareshmuddebihal">
+
   
 </a>
 
